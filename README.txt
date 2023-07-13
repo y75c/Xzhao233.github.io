@@ -1,34 +1,34 @@
 这个网站其实是套模板的（
-下面是原README.txt
+下体电脑原装阅读。
 
-Stellar by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+由HTML 5的
+Html5up.NET708lkn
+根据共同国家评估3.0许可证免费供个人和商业使用
 
 
-Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
-I guess you can always tone down if it's a little too vibrant for you), a "sticky" in-page
-nav bar (powered by my Scrollex plugin), a separate generic page template (just in case
-you need one), and an assortment of pre-styled elements.
+向星星打招呼吧,一个光滑的小寻呼机,带有一个超级充满活力的色彩调色板。
+我想如果你觉得有点过于活跃的话,你就可以降低语气。
+纳夫条(由我的斯克拉莱克斯插件提供动力),一个单独的通用页面模板(以防万一)
+你需要一个),以及各种预先设计的元素。
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+*由"安飞溅"提供,这是一个由CC0(公共领域)图像组成的绝佳集合。
+你几乎可以用任何东西。
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+Aj
+Aj@lkn.io|@Aylkn
 
 
-Credits:
+贷项:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	模拟图像:
+		不溅(不溅)
 
-	Icons:
-		Font Awesome (fontawesome.io)
+	图标:
+		字体超酷(字体)
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+	其他:
+		J查询(JQERY.com)
+		(吉特布网/阿杰肯/吉克尔)
+		响应工具(JUTUB.com/AJLKN/回应工具)
